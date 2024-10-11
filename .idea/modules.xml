@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DPLab03/DPLab03.iml" filepath="$PROJECT_DIR$/DPLab03/DPLab03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DPlab04/DPlab04.iml" filepath="$PROJECT_DIR$/DPlab04/DPlab04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DPlab05/DPlab05.iml" filepath="$PROJECT_DIR$/DPlab05/DPlab05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dplab_131.iml" filepath="$PROJECT_DIR$/.idea/dplab_131.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab02_stratergy_pattern/lab02_stratergy_pattern.iml" filepath="$PROJECT_DIR$/lab02_stratergy_pattern/lab02_stratergy_pattern.iml" />
+    </modules>
+  </component>
+</project>
