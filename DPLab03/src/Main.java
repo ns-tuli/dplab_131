@@ -56,9 +56,10 @@ public class Main {
             String encryptedtext = context.encryptData(text);
             FileHandler.writeFile("encryptedtext.txt",encryptedtext);
 
-
-            //String decryptedtext = context.decryptData(text);
-           // FileHandler.writeFile("decryptedtext.txt", decryptedtext);
+            //for decryption
+            
+            // String decryptedtext = context.decryptData(text);
+            // FileHandler.writeFile("decryptedtext.txt", decryptedtext);
 
 
 
